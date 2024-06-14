@@ -39,5 +39,5 @@ After installing the dependencies, follow these steps:
 If you encounter any bugs or have suggestions for new features, feel free to open an issue or submit a pull request. Your contributions are greatly appreciated! 😊
 
 ## Contact 📧
-For any questions or feedback, reach out to me at [your-email@example.com](mailto:patilsanjana10008@gmail.com).
+For any questions or feedback, reach out to me at [patilsanjana10008@gmail.com](mailto:patilsanjana10008@gmail.com).
 
